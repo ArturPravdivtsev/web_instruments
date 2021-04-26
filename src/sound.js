@@ -1,4 +1,4 @@
-import './howler.core.min.js';
+import { Howl } from 'howler';
 
 let sound = new Howl({
     src: ['./audio/stopwatch.mp3'],
